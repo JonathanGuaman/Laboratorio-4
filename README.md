@@ -8,7 +8,7 @@
 
 - Calcular el valor de la potencia del circuito usando el teorema de transferencia de potencia maxima.
 
-### 1.2.- Objativo Especifico: 
+### 1.2.- Objetivo Especifico:
 
 - Entontrar el valor de la resistencia en la cual nos ayudara a encontrar la potencia maxima que el circuito aportara con ayuda del teorema ya comentado.
 
