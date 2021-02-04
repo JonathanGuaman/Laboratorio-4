@@ -104,11 +104,36 @@ Figura 5.1.1
 Figura 5.1.2
 
 
+## 5.2.- Preguntas adicionales:
+
+- 5.2.1.-¿Se cumple el Teorema de la Maxima Transferencia de Potencia? Argumente su respuesta.
+
+Al momento de realizar el analisis del teorema ya mensionado llegamos a la conclusion que si cumple el teorema por el motivo que al momento de realizar el analisis con distintos resistores en la cual va a variar su valor, obtubimos un valor de una maxima potencia al momento de tomar las resistencias que tienen valores mas sercanos a la resistencia interna de la fuente no necesariamente fue un resistor del mismo valor pero si que se acercaba demasiado para igualar dichas resistencias.
 
 
+- 5.2.2.-¿Cual fue la potencia maxima de (RL)?
+
+El valor de la potencia maxima fue de 46.5 mW hablando teoricamente pero experimentalmente tenemos 46.51 mW tienen una pequeña variacion de sus valores pero no es demasiado el cambio.
+
+- 5.2.3.-¿Para que valor de (RL) se obtiene la MTP? 
+
+El valor de la Resistencia (RL) es de 1000 Ohm.
 
 
+## 5.3.-Valores de error:
 
+Figura 5.3.1
+
+
+## 6.-CONCLUSIONES:
+
+- Finalmente llegamos a la conclusion que podemos obtener una mejor eficiencia de la potencia obtenida en el circuito mediante la aplicacion del teorema de  la maxima transferencia de potencia.
+
+- Usar otros simuladores que podamos encontrar la potencia que recorre en el circuito por el motivo que en Tinkercad no hay un componente digital para poder medir la potencia que se encuentra circulando en ese momento, podemos usar el metodo tradicional que es calculo pero no es lo mismo la exactitud de los valores de un programa como el de los calculos.
+
+## 7.-BIBLIOGRAFIA:
+
+- Floyd, T.L. (2007). Principios de circuitos electricos (Octava edicion), Pagina 310-313.
 
 
 
