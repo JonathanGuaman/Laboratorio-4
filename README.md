@@ -141,7 +141,7 @@ Figura 5.1.2
 
 - 5.2.1.-¿Se cumple el Teorema de la Maxima Transferencia de Potencia? Argumente su respuesta.
 
-Al momento de realizar el analisis del teorema ya mensionado llegamos a la conclusion que si cumple el teorema por el motivo que al momento de realizar el analisis con distintos resistores en la cual va a variar su valor, obtubimos un valor de una maxima potencia al momento de tomar las resistencias que tienen valores mas sercanos a la resistencia interna de la fuente no necesariamente fue un resistor del mismo valor pero si que se acercaba demasiado para igualar dichas resistencias.
+Al momento de realizar el analisis del teorema ya mensionado llegamos a la conclusion que no cumple el teorema por el motivo que al momento de realizar el analisis los distintos resistores en la cual va a variar su valor, obtubimos un valor de una maxima potencia al momento de tomar las resistencias que tienen el valor mas sercanios a la resistencia interna de la feunte no necesariamente fue un resistor del mismo valor pero si que se acerca demasiado para dichas resistencias 
 
 
 - 5.2.2.-¿Cual fue la potencia maxima de (RL)?
