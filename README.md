@@ -16,44 +16,63 @@
 
 - Hoy en dia el teorema de maxima transferencia de potencia a sido requerido para obtener el valor de la potencia maxima que nos podra aportar el circuito electrico.
 
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Marco%20Teorico/Marco%20Teorico.png)
+
 ## 3.-DIAGRAMAS:
 
 - Modelo del circuito por calcular:
+
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama.png)
 
 Figura 3.1
 
 
 - Circuito en Tinkercad:
 
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama%201.png)
+
 Figura 3.2
 
 
 - Amperimetro y voltimetro digital conectado con respecto a la resistencia de 220 Ohm:
+
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama2.png)
 
 Figura 3.3
 
 
 - Amperimetro y voltimetro digital conectado con respecto a la resistencia de 470 Ohm:
 
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama3.png)
+
 Figura 3.4
 
 
 - Amperimetro y voltimetro digital conectado con respecto a la resistencia de 680 Ohm:
+
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama4.png)
 
 Figura 3.5
 
 
 - Amperimetro y voltimetro digital conectado con respecto a la resistencia de 820 Ohm:
 
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama5.png)
+
 Figura 3.6
 
 
+
 - Amperimetro y voltimetro digital conectado con respecto a la resistencia de 1000 Ohm:
+
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama6.png)
 
 Figura 3.7
 
 
 - Amperimetro y voltimetro digital conectado con respecto a la resistencia de 1500 Ohm:
+
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama7.png)
 
 Figura 3.8
 
@@ -61,15 +80,21 @@ Figura 3.8
 
 - Amperimetro y voltimetro digital conectado con respecto a la resistencia de 1800 Ohm:
 
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama8.png)
+
 Figura 3.9
 
 
 - Amperimetro y voltimetro digital conectado con respecto a la resistencia de 2200 Ohm:
 
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama9.png)
+
 Figura 3.10
 
 
 - Amperimetro y voltimetro digital conectado con respecto a la resistencia de 3900 Ohm:
+
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama10.png)
 
 Figura 3.11
 
@@ -77,10 +102,14 @@ Figura 3.11
 
 - Amperimetro y voltimetro digital conectado con respecto a la resistencia de 4700 Ohm:
 
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Diagramas/Diagrama11.png)
+
 Figura 3.12
 
 
 ## 4.-LISTADO DE COMPONENTES:
+
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Tablas/Tabla1.png)
 
 Figura 4.1
 
@@ -94,12 +123,16 @@ Figura 4.1
 
 ### 5.1.-Analisis del teorema de transferencia de potencia maxima:
 
-- Para ir obteniendo los valores correspondientes usamos la siguiente formula: 
+- Para ir obteniendo los valores correspondientes usamos la siguiente formula:
+
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Tablas/Formula.png)
 
 Figura 5.1.1
 
 
 - Vamos variando el valor de la resistencia que sera conocido como (RL)  y con ello tendremos los siguientes valores hablando teoricamente pero observemos que vamos a obtener que no va a variar demasiado con respecto a los valores obtenidos en la practica:
+
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Tablas/Tabla%20de%20valores.png)
 
 Figura 5.1.2
 
@@ -120,7 +153,9 @@ El valor de la potencia maxima fue de 46.5 mW hablando teoricamente pero experim
 El valor de la Resistencia (RL) es de 1000 Ohm.
 
 
-## 5.3.-Valores de error:
+## 5.3.-Valores de error
+
+![](https://github.com/JonathanGuaman/Laboratorio-4/blob/main/Tablas/Tabla%202.png)
 
 Figura 5.3.1
 
